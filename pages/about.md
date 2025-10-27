@@ -4,6 +4,17 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+About Me
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork).
+Hi! I’m Nidhi Sehrawat, based in Cambridge,UK.  
+I’m currently studying Data Analytics.
+
+I enjoy exploring data using Python and Jupyter Notebook.  
+One of my recent projects analyzed the Impact of School Quality on House Prices in the UK.  
+My goal is to combine creative and analytical thinking to make data-driven decisions.
+
+---
+📫 Get in touch:  
+- [GitHub](https://github.com/nidhisehrawat2411)  
+
+
